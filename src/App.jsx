@@ -15,7 +15,6 @@ function App() {
   return (
     <main>
       {isOpen && <Modal />}
-
       <Navbar />
       <CartContainer />
     </main>
